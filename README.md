@@ -1,1 +1,1 @@
-Test ruby script to caclulate times
+Test ruby script to calculate times
