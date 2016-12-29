@@ -5,7 +5,7 @@ $max_mins = 60
 $max_secs = 60
 $work_hours = 8
 
-full = 84000.00
+full = 120000.00
 per_hour = (full / 52) / 40 
 per_min = (per_hour / 60)
 
